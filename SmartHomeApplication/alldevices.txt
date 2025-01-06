@@ -1,0 +1,8 @@
+Speaker|Bedroom_Speaker|FALSE|54
+RadiatorDevice|Garage_Radiator|FALSE|1300|1500|1700|2100|15.00
+RadiatorDevice|Kitchen_Radiator|TRUE|1000|1500|1700|2100|24.00
+Speaker|Kitchen_Speaker|FALSE|0
+ThermoDevice|Kitchen_Thermostat|FALSE|TRUE|1200|1500|1700|2100
+LightDevice|Living_Room_Light|FALSE|FALSE|75|34
+SocketDevice|Living_Room_Socket|FALSE|FALSE|3|50|170|2100|1300|1500|100|300|200|400
+Speaker|Living_Room_Speaker|TRUE|10
